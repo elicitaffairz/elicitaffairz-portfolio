@@ -312,7 +312,7 @@ const App: React.FC = () => {
                     <h4 className="text-[10px] font-bold text-slate-400 uppercase tracking-[0.2em]">CONNECT WITH ME</h4>
                     <div className="flex gap-3 mt-4 cursor-pointer">
                       <a href="https://www.linkedin.com/in/eliza-abing-272b0b244/" className="social-btn" target="_blank" rel="noopener noreferrer"><Linkedin size={20} /></a>
-                      <a href="https://github.com/dlwlrmwa" className="social-btn" target="_blank" rel="noopener noreferrer"><Github size={20} /></a>
+                      <a href="https://github.com/elicitaffairz" className="social-btn" target="_blank" rel="noopener noreferrer"><Github size={20} /></a>
                       <a href="https://www.facebook.com/elicitaffairs" className="social-btn" target="_blank" rel="noopener noreferrer"><Facebook size={20} /></a>
                     </div>
                   </div>
